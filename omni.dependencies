@@ -1,9 +1,5 @@
 [
     {
-        "repository": "android_device_samsung_piranha",
-        "target_path": "device/samsung/piranha"
-    },
-    {
         "repository": "android_kernel_samsung_piranha",
         "target_path": "kernel/samsung/piranha"
     },
